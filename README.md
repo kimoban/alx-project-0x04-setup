@@ -22,21 +22,21 @@ A modern Next.js application built with TypeScript and Tailwind CSS, featuring A
 ## 📁 Project Structure
 
 ├── components/  
-│   ├── common/  
-│   │   └── Button.tsx          # Reusable button component  
-│   └── layouts/  
-│       ├── Header.tsx          # Navigation header  
-│       └── Layout.tsx          # Main layout wrapper  
+│     ├── common/  
+│     │   └── Button.tsx          # Reusable button component  
+│     └── layouts/  
+│         ├── Header.tsx          # Navigation header  
+│         └── Layout.tsx          # Main layout wrapper  
 ├── interfaces/  
-│   └── index.ts                # Centralized TypeScript interfaces  
+│     └── index.ts                # Centralized TypeScript interfaces  
 ├── pages/  
-│   ├── 404.tsx                 # Custom error page  
-│   ├── index.tsx               # Home/splash page  
-│   ├── generate-text-ai.tsx    # AI text generation (coming soon)  
-│   ├── text-to-image.tsx       # Text-to-image converter (coming soon)  
-│   └── counter-app.tsx         # Contact page (coming soon)  
+│     ├── 404.tsx                 # Custom error page  
+│     ├── index.tsx               # Home/splash page  
+│     ├── generate-text-ai.tsx    # AI text generation (coming soon)  
+│     ├── text-to-image.tsx       # Text-to-image converter (coming soon)  
+│     └── counter-app.tsx         # Contact page (coming soon)  
 ├── styles/  
-│   └── globals.css             # Global styles with Tailwind  
+│     └── globals.css             # Global styles with Tailwind  
 ├── package.json  
 ├── tsconfig.json  
 ├── tailwind.config.js  
