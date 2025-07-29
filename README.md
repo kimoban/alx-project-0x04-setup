@@ -15,9 +15,11 @@ alx-project-0x04-setup/
 ## 🚀 Projects Overview
 
 ### 📂 ALX Project 0x04 - Base Implementation
+
 **Directory:** `alx-project-0x04/`
 
 A foundational Next.js TypeScript application featuring:
+
 - Component-based architecture
 - Local state management with React hooks
 - Responsive design with Tailwind CSS
@@ -25,36 +27,43 @@ A foundational Next.js TypeScript application featuring:
 - Clean UI components and layouts
 
 **Key Features:**
+
 - 🎨 Modern UI with Tailwind CSS
 - 🧩 Reusable component structure
 - 📱 Responsive design
 - ⚡ Fast development with Next.js
 
 ### 📂 ALX Project 0x05 - Context API Implementation
+
 **Directory:** `alx-project-0x05/`
 
 Builds upon Project 0x04 by implementing React Context API for global state management:
+
 - Shared counter state across components
 - No prop drilling required
 - TypeScript-safe context implementation
 - Demonstrates cross-component communication
 
 **Key Features:**
+
 - 🌐 Global state with Context API
 - 🔄 Real-time state synchronization
 - 📋 Custom hooks for context consumption
 - 🎯 No prop drilling
 
 ### 📂 ALX Project 0x06 - Redux Implementation
+
 **Directory:** `alx-project-0x06/`
 
 Advanced state management using Redux and Redux Toolkit:
+
 - Centralized store for application state
 - Predictable state updates with actions and reducers
 - Redux DevTools support for debugging
 - Scalable architecture for large applications
 
 **Key Features:**
+
 - 🏪 Redux store with Redux Toolkit
 - 🔍 Time-travel debugging
 - ⚙️ Immutable state updates
@@ -80,6 +89,7 @@ This repository demonstrates a progressive learning path:
 ## 🚦 Getting Started
 
 ### Prerequisites
+
 - Node.js 18+ installed
 - npm or yarn package manager
 
@@ -103,17 +113,20 @@ npm run dev
 ### Project-Specific Features
 
 #### Project 0x04 Features:
+
 - Simple counter with local state
 - Component-based architecture
 - Responsive header and footer
 
 #### Project 0x05 Features:
+
 - Context API implementation
 - Global counter state
 - Header shows count on counter page
 - Cross-component state sharing
 
 #### Project 0x06 Features:
+
 - Redux store implementation
 - Action-based state updates
 - Redux DevTools integration
@@ -133,6 +146,7 @@ npm run dev
 ## 🎨 UI Components
 
 All projects share common UI patterns:
+
 - **Header:** Navigation and branding
 - **Counter App:** Interactive counting interface
 - **Button:** Reusable button component
@@ -147,6 +161,7 @@ All projects share common UI patterns:
 ## 📖 Learning Objectives
 
 By exploring these projects, you'll learn:
+
 - React component architecture
 - State management patterns
 - TypeScript integration
@@ -162,8 +177,6 @@ Feel free to explore, modify, and learn from these implementations. Each project
 
 This project is part of the ALX Software Engineering Program and is intended for educational purposes.
 
----
-
 **Happy Learning!** 🎓✨
 
-*Created as part of ALX Projects 0x04-0x06 - Progressive React State Management*
+## Created as part of ALX Projects 0x04-0x06 - Progressive React State Management
