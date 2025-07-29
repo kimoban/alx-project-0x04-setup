@@ -180,3 +180,9 @@ This project is part of the ALX Software Engineering Program and is intended for
 **Happy Learning!** 🎓✨
 
 ## Created as part of ALX Projects 0x04-0x06 - Progressive React State Management
+
+**This repository demonstrates:**
+
+- **ALX Project 0x04:** Local State Management with React Hooks
+- **ALX Project 0x05:** Global State with Context API
+- **ALX Project 0x06:** Professional State Management with Redux
