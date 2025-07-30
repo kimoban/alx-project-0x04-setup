@@ -11,6 +11,12 @@ interface CountContextType {
 // Create the context with default values
 const CountContext = createContext<CountContextType | undefined>(undefined);
 
+interface CountContextProps {
+  count: number;
+  increment: () => void;
+  decrement: () => void;
+}
+
 // Create a provider component
 interface CountProviderProps {
   children: ReactNode;
